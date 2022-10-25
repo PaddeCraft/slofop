@@ -1,14 +1,16 @@
 [tool.poetry]
 name = "slofop"
-version = "0.1.0"
+version = "0.2.0"
 description = ""
-authors = ["PaddeCraft <70023807+PaddeCraft@users.noreply.github.com>"]
+authors = ["PaddeCraft <paddecraft@gmail.com>"]
+readme="README.md"
+repository="https://github.com/PaddeCraft/slofop"
 
 [tool.poetry.dependencies]
 python = "^3.10"
 
 [tool.poetry.dev-dependencies]
-pytest = "^5.2"
+black = "^22.10.0"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
