@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "slofop"
-version = "0.2.0"
+version = "0.3.0"
 description = "A relatively simple and good-looking logging library for Python, with relatively good customisability."
 authors = ["PaddeCraft <paddecraft@gmail.com>"]
 readme="README.md"
